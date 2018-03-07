@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/goweiwen/vue-swing#readme",
   "peerDependencies": {
-    "swing": "^3.0.0",
+    "swing": "github:simllll/swing",
     "vue": "^2.0.0"
   },
   "devDependencies": {
