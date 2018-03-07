@@ -1,4 +1,4 @@
-# VueSwing
+# NuxtSwing
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,25 +8,27 @@ A Vue.js wrapper for [Swing](https://github.com/gajus/swing). Swing is a swipeab
 ## Installing
 
 ```sh
-npm install --save vue-swing
+npm install --save github:simllll/nuxt-swing
 ```
 
 ## Usage
 
 ```js
-import VueSwing from 'vue-swing'
+import NuxtSwing from 'nuxt-swing/NuxtSwing.vue';
 
-Vue.component('vue-swing', VueSwing)
+components: {
+        NuxtSwing
+        }
 ```
 
 ```html
-<vue-swing
+nuxt-swing
   @throwout="throwout"
   @throwin="throwin"
   :config="config"
 >
   <div class="box">Throw me!</div>
-</vue-swing>
+</nuxt-swing>
 ```
 
 ## Properties
