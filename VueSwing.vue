@@ -86,7 +86,7 @@ export default {
   },
 
   beforeDestroy () {
-    this.observer.disconnect()
+    this.observer && this.observer.disconnect()
   },
 
   Card: Swing.Card,
