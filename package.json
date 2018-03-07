@@ -1,8 +1,8 @@
 {
-  "name": "vue-swing",
+  "name": "nuxt-swing",
   "version": "0.0.9",
   "description": "Vue.js wrapper for Swing",
-  "main": "VueSwing.vue",
+  "main": "NuxtSwing.vue",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goweiwen/vue-swing.git"
