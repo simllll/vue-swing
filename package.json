@@ -34,7 +34,7 @@
     "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-prettier": "^2.3.1",
     "eslint-plugin-promise": "^3.6.0",
-    "eslint-plugin-standard": "^3.0.1",
+    "eslint-plugin-standard": "^3.1.0",
     "swing": "github:simllll/swing",
     "vue": "^2.5.2",
     "webpack": "^3.7.1"
