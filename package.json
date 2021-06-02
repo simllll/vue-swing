@@ -36,7 +36,7 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
     "swing": "github:simllll/swing",
-    "vue": "^2.5.2",
+    "vue": "^2.6.13",
     "webpack": "^3.7.1"
   }
 }
